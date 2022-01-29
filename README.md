@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hammy
 - 👀 I’m interested in Data Science, Machine Learning and AI
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning to improve my knowledge on Data Science 
+- 💞️ I’m looking to collaborate on projects about Data science
 - 📫 How to reach me on https://www.linkedin.com/in/bello-hammed-b74b4b18a
 
 <!---
